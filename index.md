@@ -21,7 +21,7 @@ After using the `ssh` command, the field requires the password to connect to the
 - `cp` you can use this command to rename or make a copy of files
   
 Here is a sample usage of basic unix commands on my terminal
-![terminal](terminal.png)
+![terminal](terminal.png)  
 We first use `cd` command to check CSE15L_lab2 directory, and we use `ls` to see what's inside.  
 We copied page.md and name the copy page1.md with `cp` command.  
 Then we create a directory named empty with `mkdir` then we `rmdir` to remove it.  
@@ -30,9 +30,11 @@ Finally we rename page.md with `mv` command to index.md.
   
 **For more Unix command, you can check [wiki Unix command list](https://en.wikipedia.org/wiki/List_of_Unix_commands)**
 ## Step4
-**SCP**
-*SCP stands for secure copy*
-*screenshots*
+**SCP**  
+*SCP stands for secure copy*  
+With `scp file host` command, you can upload local file to the remote terminal.  
+Here is a sample of how to use the command.  
+![scpSample](scpsample.png)
 
 ## Step5
 **SSH key**
