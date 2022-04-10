@@ -8,8 +8,7 @@ You can install VScode using the link below [Download VScode](https://code.visua
 
 ## Step2  
 **Remote connecting via ssh**  
-*screenshot*
-
+![sshsamp](sshsample.png)
 ---
 ## Step3
 **Unix Commands**
@@ -25,6 +24,6 @@ You can install VScode using the link below [Download VScode](https://code.visua
 ---
 ## Step5
 **SSH key**
-use `ssh keygen` to generate sshkey. 
-Here is a sample of how to generate the key
+use `ssh keygen` to generate sshkey.  
+Here is a sample of how to generate the key on my macbook terminal
 ![sshkey](sshkey.png)
