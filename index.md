@@ -7,7 +7,10 @@ You can install VScode using the link below [Download VScode](https://code.visua
 ![vscode UI](maxresdefault.jpg)
 
 ## Step2  
+
 **Remote connecting via ssh**  
+Use `ssh host` to connect to the host sever.  
+*ssh stands for secure shell*
 ![sshsamp](sshsample.png)
 ---
 ## Step3
@@ -16,10 +19,12 @@ You can install VScode using the link below [Download VScode](https://code.visua
 - `ls` command is used to show all files in the directory
 - `rm` is used to remove files from current directory
 - `rmdir` removes a directory
+- `cp` you can use this command to rename or make a copy of files
 *screenshot*
 ---
 ## Step4
 **SCP**
+*SCP stands for secure copy*
 *screenshots*
 ---
 ## Step5
