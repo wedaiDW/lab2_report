@@ -40,4 +40,6 @@ Here is a sample of how to use the command.
 **SSH key**
 use `ssh keygen` to generate sshkey.  
 Here is a sample of how to generate the key on my macbook terminal
-![sshkey](sshkey.png)
+![sshkey](sshkey.png)  
+With sshkey, you can connect to the host without providing the password when connecting to your remote terminal.  
+And github has a very detailed explaination of what a [sshkey](https://docs.github.com/cn/authentication/connecting-to-github-with-ssh/about-ssh) is.
