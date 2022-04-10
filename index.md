@@ -7,7 +7,7 @@
 
 You can install VScode using the link below [Download VScode](https://code.visualstudio.com/download)
 *some screenshot here*
----
+
 ## Step2  
 **Remote connecting via ssh**  
 *screenshot*
