@@ -12,7 +12,7 @@ You can install VScode using the link below [Download VScode](https://code.visua
 Use `ssh host` to connect to the host sever.  
 *ssh stands for secure shell*
 ![sshsamp](sshsample.png)
----
+
 ## Step3
 **Unix Commands**
 - `cd` command can be used to navigate through directories
@@ -21,12 +21,12 @@ Use `ssh host` to connect to the host sever.
 - `rmdir` removes a directory
 - `cp` you can use this command to rename or make a copy of files
 *screenshot*
----
+
 ## Step4
 **SCP**
 *SCP stands for secure copy*
 *screenshots*
----
+
 ## Step5
 **SSH key**
 use `ssh keygen` to generate sshkey.  
