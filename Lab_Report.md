@@ -45,4 +45,8 @@ With sshkey, you can connect to the host without providing the password when con
 And github has a very detailed explaination of what a [sshkey](https://docs.github.com/cn/authentication/connecting-to-github-with-ssh/about-ssh) is.
 
 ## Step6
-**Use remote command to save time**
+**Use commands to save time**
+As we are using `ssh` connect to remote, we can also add commands when we are connecting to our remote by using quotation marks in the terminal.  
+Instead of we do ![](sshsample.png) then input command.  
+We can wrap codes in quotation marks to run commands as we connect to the remote terminal.  
+![](fasterRemote.png)  
