@@ -1,1 +1,1 @@
-[Click here to go to the labreport](index.md)
+[Click here to go to the labreport](Lab_Report.md)
