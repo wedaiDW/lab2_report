@@ -1,0 +1,6 @@
+# Lab Report 2
+this is about creating and debugging of the markdown parse program regarding some specific symptom inducing inputs.  
+Here is the screenshot of all changes made during the debugging push on github.  
+![screenshot_1](LR2/changes.png)
+  
+We have five error inducing inputs that causes error in the first version of our program, they are:
