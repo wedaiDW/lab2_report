@@ -5,7 +5,7 @@ Here is the screenshot of all changes made during the debugging push on github.
 Here is our [link to repo](https://github.com/Atch19/markdown-parser)
   
 We have five error inducing inputs that causes error in the first version of our program, they are:  
-1. [input 2](https://github.com/Atch19/markdown-parser/blob/main/test-file2.md)  ![](LR2/err1.png)
+1. [input 2]e(https://github.com/Atch19/markdown-parser/blob/main/test-file2.md)  ![](LR2/err1.png)
 3. [input 3](https://github.com/Atch19/markdown-parser/blob/main/test-file3.md)  ![](LR2/err2.png)
 4. [input 4](https://github.com/Atch19/markdown-parser/blob/main/test-file4.md)  ![](LR2/err3.png)
 5. [input 7](https://github.com/Atch19/markdown-parser/blob/main/test-file7.md)  ![](LR2/err4.png)
