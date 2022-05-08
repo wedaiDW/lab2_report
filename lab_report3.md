@@ -12,23 +12,23 @@ Similarly for `scp` command.
   
 ### Part 2
 We are going to set up git streamline on remote terminal. Go to profile-setting-developer setting to generate key.  
-![](gitkey.png)   
+![](LR3/gitkey.png)   
 We save the generated key to somewhere for easy access.  
-![](gitkeystore.png)  
+![](LR3/gitkeystore.png)  
 Now we use git commands, first we go to a existing repo and make change to a file.  
 We make change directly on terminal using vim to the demo two sum java code
-![](gitvim.png)  
-![](gitvimm.png)  
+![](LR3/gitvim.png)  
+![](LR3/gitvimm.png)  
 We now we commit and push.  
-![](gitvim_cap.png)
+![](LR3/gitvim_cap.png)
   
 ### Part 3
 We can use `scp -r` command to upload whole directory!  
-![](scpr.png)  
+![](LR3/scpr.png)  
 And we check our remote repo, also if our program runs. Since we already create the makefile we can just use `make test` to run desired tests while compling java file.
-![](sshrun.png)  
+![](LR3/sshrun.png)  
 Now we make everything in to single line.  
-![](onelinecmd.png)  
+![](LR3/onelinecmd.png)  
 Check if runs:   
-![](onelineres1.png)  
-![](onelineres2.png)
+![](LR3/onelineres1.png)  
+![](LR3/onelineres2.png)
