@@ -12,9 +12,9 @@ Similarly for `scp` command.
   
 ### Part 2
 We are going to set up git streamline on remote terminal. Go to profile-setting-developer setting to generate key.  
-![](gitkey.png)  
+![](gitkey.png)   
 We save the generated key to somewhere for easy access.  
-![](gitkeystore.png)
+![](gitkeystore.png)  
 Now we use git commands, first we go to a existing repo and make change to a file.  
 We make change directly on terminal using vim to the demo two sum java code
 ![](gitvim.png)  
