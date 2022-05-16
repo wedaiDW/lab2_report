@@ -3,6 +3,7 @@
 ### Part 1
 Here we show how to modify ssh config file. First we simply use command `cd .ssh` to go to the ssh directory.  
 ![](LR3/ssh_setup.png)  
+![](LR3/sshprt.png)  
 Now we can modify this file via many ways, and I'm going to use `vim filename` here to modify this file.  
 ![](LR3/config.png)  
 Now we can simply use `ieng6` to login to remote instead of the full name.  
