@@ -21,7 +21,8 @@ We make change directly on terminal using vim to the demo two sum java code
 ![](LR3/gitvim.png)  
 ![](LR3/gitvimm.png)  
 We now we commit and push.  
-![](LR3/gitvim_cap.png)
+![](LR3/gitvim_cap.png)  
+[Link to commit](https://github.com/wedaiDW/CSE15LDEMO/commit/f8735e24c5ba5ab8dcd7e41a108057e151508a57)
   
 ### Part 3
 We can use `scp -r` command to upload whole directory!  
