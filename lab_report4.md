@@ -8,8 +8,11 @@ Now we need to show the modified testfile and test result for the one we reviewe
 ![](LR4/LR4_tmt.png)  
 Test result  
 ![](LR4/LR4_tf.png)  
-### Analysis of failing case and potential improvement  
+## Analysis of failing case and potential improvement  
+#### First case
 For the `first case`, both implement runs into the same error, both are not considering the case that is wrapped with \`  
 To fix this case, just add a detection method like the one to distinct from image and link and this should pass the test case.  
+#### Second case
 Then for the `second case`. In this case, although both implement failed with different output, the error is caused by the same mechanism. First of all, both implement failed to solve nested links, however, in outputwise, they are having an output that is closer to expected than ours. This is because in their implementation they are considering line wise rather than whole file. To fix this is more complicated than just few lines of code, because the nested link have a specific order of which link is to be render as a link. The implement will have to match the parentheses while matching the correct link.  
-The `third case` is different, it has different output with different mechanism causing this error. For our code, this is caused by the matching of parentheses and nested link
+#### Third case
+The `third case` is different, it has different output with different mechanism causing this error. For our code, this is caused by the parsing between parentheses, this should work if a statement breaks the loop when a `\n` is detected. The issue with the code we reviewed is caused by how the file is read, their test case would fail this because they are reading in the markdown file by line, and this would be more complicated to revise since their implement is based on this read in setting.
