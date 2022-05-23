@@ -5,4 +5,7 @@ This is a lab report that contains the instructions for each steps in the lab1.
 This is a lab report of week 4 lab involving debugging.  
    
 [Click here to go to the labreport3](lab_report3.md)  
-This is a lab report containing how to improve remote usage.
+This is a lab report containing how to improve remote usage.  
+  
+[Click here to go to the labreport4](lab_report4.md)  
+This is a lab report of testing and locating issues of markdownparse implementation.
