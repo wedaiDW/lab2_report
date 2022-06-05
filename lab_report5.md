@@ -9,7 +9,7 @@ This is how they suppose to be looked like:
 ![](LR5/1941.png)  
 ![](LR5/1942.png)  
 ![](LR5/2011.png)  
-![](LR5/2012.png)
+![](LR5/2012.png)  
 **Both** implementation has failed on 194. 
 What's going on here is in 194 there seems to be a special format of adding a link, which causes both implementations failed. 
 A potential fix is that we take this kind of link into consideration and add a detection method for it.  
